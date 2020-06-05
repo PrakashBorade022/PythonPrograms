@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b92275d8-fe03-4156-9bb6-16b7015bcf1b" name="Default Changelist" comment="" />
+    <list default="true" id="b92275d8-fe03-4156-9bb6-16b7015bcf1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Prime Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Whether the Number is Odd or Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Three Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print odd and even numbers between 1 to 100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cr1OS1LDlWDcohUTNIxgkegTdX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,8 +37,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Print Hello World">
-    <configuration name="BMI Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Primes Numbers Between 1 to 100">
+    <configuration name="Check Prime Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -32,11 +46,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic python Programs for beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic python Programs for beginners/BMI Calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Prime Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Get Input From User" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Check Whether the Number is Odd or Even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic python Programs for beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic python Programs for beginners/Get Input From User.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Whether the Number is Odd or Even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Interest Calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Check the  Largest of Three Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic python Programs for beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic python Programs for beginners/Interest Calculation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Three Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Print Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Primes Numbers Between 1 to 100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +109,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic python Programs for beginners" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic python Programs for beginners/Print Hello World.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Print odd and even numbers between 1 to 100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print odd and even numbers between 1 to 100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,10 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Print Hello World" />
-        <item itemvalue="Python.BMI Calculator" />
-        <item itemvalue="Python.Interest Calculation" />
-        <item itemvalue="Python.Get Input From User" />
+        <item itemvalue="Python.Primes Numbers Between 1 to 100" />
+        <item itemvalue="Python.Check Prime Number" />
+        <item itemvalue="Python.Print odd and even numbers between 1 to 100" />
+        <item itemvalue="Python.Check Whether the Number is Odd or Even" />
+        <item itemvalue="Python.Check the  Largest of Three Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -131,22 +167,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591277705597">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591349049329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591277705597" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591277705597">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591349049329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591277705597" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591277705597">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591349049314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591277705597" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591277705597">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591349049314" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591349049329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591277705597" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
     <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591272220078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
