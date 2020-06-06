@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92275d8-fe03-4156-9bb6-16b7015bcf1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Prime Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Whether the Number is Odd or Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Three Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Two Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print odd and even numbers between 1 to 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print first n prime numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Prime Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check Prime Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Primes Numbers Between 1 to 100">
+  <component name="RunManager" selected="Python.Print first n prime numbers">
     <configuration name="Check Prime Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,27 +77,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Check the  Largest of Three Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Check the  Largest of Three Numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Primes Numbers Between 1 to 100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +90,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Primes Numbers Between 1 to 100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Print first n prime numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print first n prime numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Print first n prime numbers" />
         <item itemvalue="Python.Primes Numbers Between 1 to 100" />
         <item itemvalue="Python.Check Prime Number" />
         <item itemvalue="Python.Print odd and even numbers between 1 to 100" />
         <item itemvalue="Python.Check Whether the Number is Odd or Even" />
-        <item itemvalue="Python.Check the  Largest of Three Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -167,22 +164,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591349049329">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591441528564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591349049329">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591441528564" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591441528564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591349049314">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591441528564" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591441528563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591349049314" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591349049329">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591441528563" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591441528564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591349049329" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591441528564" />
     <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591272220078">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

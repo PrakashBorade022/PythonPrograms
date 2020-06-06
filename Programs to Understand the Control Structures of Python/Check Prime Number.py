@@ -3,7 +3,7 @@
 # 2,3,5,7,11,13,17,19
 
 number = int(input("Enter a number "))
-one =1
+
 if(number<=1):
     print("Enter number greater than 1")
 else:
