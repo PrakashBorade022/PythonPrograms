@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92275d8-fe03-4156-9bb6-16b7015bcf1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Multiplication table from 1 to 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Print the Table of  a Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Sum of Given Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Understand Break,Pass,Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/sum of first n even numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/sum of first n odd numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Multiplication table from 1 to 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs to Understand the Control Structures of Python/Multiplication table from 1 to 10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,32 +161,64 @@
       <option name="presentableId" value="Default" />
       <updated>1591271867190</updated>
     </task>
+    <task id="LOCAL-00001" summary="'added new programs with sum of natural no'">
+      <created>1591458305273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591458305273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'added new programs with sum of natural no'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'added new programs with sum of natural no'" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591457898587">
+    <state x="340" y="0" key="CommitChangelistDialog2" timestamp="1591458303584">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591457898587" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591457898587">
+    <state x="340" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591458303584" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1591506225841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591457898587" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591457898587">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591506225841" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1591506225841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591457898587" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591457898587">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591506225841" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1591506225841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591457898587" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591506225841" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1591506225841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591506225841" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1591459677555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591459677555" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1591459677555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591459677555" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1591459677555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591459677555" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1591459677555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591459677555" />
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591458256984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1591458256984" />
-    <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591272220078">
+    <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591458885050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1591272220078" />
+    <state x="256" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1591458885050" />
   </component>
 </project>
